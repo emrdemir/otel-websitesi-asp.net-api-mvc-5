@@ -4,7 +4,7 @@ namespace HotelProject.WebUI.Dtos.ServiceDto
 {
     public class CreateServiceDto
     {
-        [Required(ErrorMessage = "Hizmet ikon libki giriniz")]
+        [Required(ErrorMessage = "Hizmet ikon linki giriniz")]
         public string ServiceIcon { get; set; }
 
         [Required(ErrorMessage = "Hizmet başlığı giriniz")]
