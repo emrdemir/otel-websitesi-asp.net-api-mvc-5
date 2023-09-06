@@ -1,3 +1,8 @@
 Api Testi ve Swagger
 Tema Eklenicek
 Register ve Login iþlemleri yapýlýcak
+
+Onay Bekliyor
+Onaylandý
+Ýptal Edildi
+Bekletiliyor
