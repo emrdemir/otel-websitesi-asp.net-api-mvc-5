@@ -20,12 +20,12 @@ namespace HotelProject.BusinessLayer.Concrete
 
         public Contact TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _contactDal.GetById(id);
         }
 
         public List<Contact> TGetList()
         {
-            throw new NotImplementedException();
+            return _contactDal.GetList();
         }
 
         public void TInsert(Contact t)
